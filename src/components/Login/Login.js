@@ -15,7 +15,6 @@ const Login = () => {
   if (firebase.apps.length === 0) {
     firebase.initializeApp(firebaseConfiq);
   }
-
   const handleGoogleSignIn = () => {
     var provider = new firebase.auth.GoogleAuthProvider();
     firebase
