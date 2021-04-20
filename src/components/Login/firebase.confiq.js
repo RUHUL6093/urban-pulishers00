@@ -1,9 +1,9 @@
 const firebaseConfiq = {
-  apiKey: "AIzaSyByUq1q-ECSshvmArxtpo2pU2F4zqJVZBQ",
-  authDomain: "new-sign1.firebaseapp.com",
-  projectId: "new-sign1",
-  storageBucket: "new-sign1.appspot.com",
-  messagingSenderId: "389064802227",
-  appId: "1:389064802227:web:1849df36c392f940e455c6"
+  apiKey: "AIzaSyCz3YOH9IY6PsRsZetXiU0l1DBNb5x2p0Q",
+  authDomain: "grameenponno2021.firebaseapp.com",
+  projectId: "grameenponno2021",
+  storageBucket: "grameenponno2021.appspot.com",
+  messagingSenderId: "276620449821",
+  appId: "1:276620449821:web:16ac9177d54a8f2b9bcef4"
 };
 export default firebaseConfiq;
